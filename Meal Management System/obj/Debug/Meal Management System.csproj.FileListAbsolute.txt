@@ -1,0 +1,7 @@
+C:\Users\farza\source\repos\Meal Management System\Meal Management System\bin\Debug\Meal Management System.exe.config
+C:\Users\farza\source\repos\Meal Management System\Meal Management System\bin\Debug\Meal Management System.exe
+C:\Users\farza\source\repos\Meal Management System\Meal Management System\bin\Debug\Meal Management System.pdb
+C:\Users\farza\source\repos\Meal Management System\Meal Management System\obj\Debug\Meal Management System.csprojResolveAssemblyReference.cache
+C:\Users\farza\source\repos\Meal Management System\Meal Management System\obj\Debug\Meal Management System.csproj.CoreCompileInputs.cache
+C:\Users\farza\source\repos\Meal Management System\Meal Management System\obj\Debug\Meal Management System.exe
+C:\Users\farza\source\repos\Meal Management System\Meal Management System\obj\Debug\Meal Management System.pdb
